@@ -5,6 +5,7 @@
 #let examples-to-cells(examples: array) = {
   // REF: https://staging.typst.app/docs/reference/model/cell/
   for example in examples {
+    let multi_line = example.contains("\n")
     (
       table.cell(
         align: center,
@@ -17,8 +18,8 @@
       table.cell(
         align: left,
         raw(
-          "$\n" + example + "\n$",
-          block: true,
+          ("$", example, "$").join(if multi_line {"\n"} else {" "}),
+          block: multi_line,
           lang: "typ"
         )
         // eval(example, mode: "markup")
