@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-05
+
+- 添加三角函数与双曲函数 | Add trigonometric and hyperbolic functions
+
 ## 2024-10-04
 
 - 添加指数与对数函数 | Add exponential and logarithmic functions

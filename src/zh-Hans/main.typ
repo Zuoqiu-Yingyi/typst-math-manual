@@ -301,13 +301,120 @@ $
 
 == 三角函数 & 双曲函数
 
+// REF: https://typst.app/docs/reference/foundations/calc#functions-sin
+// REF: https://typst.app/docs/reference/math/op/
+
 === 三角函数
+
+#examples-table()[
+  ```
+  sin a
+  ```
+][
+  ```
+  cos b
+  ```
+][
+  ```
+  tan b
+  ```
+][
+  ```
+  cot b
+  ```
+][
+  ```
+  sec b
+  ```
+][
+  ```
+  csc b
+  ```
+]
 
 === 反三角函数
 
+#examples-table()[
+  ```
+  arcsin a
+  ```
+][
+  ```
+  arccos b
+  ```
+][
+  ```
+  arctan c
+  ```
+][
+  ```
+  op("arccot") d
+  ```
+][
+  ```
+  op("arcsec") e
+  ```
+][
+  ```
+  op("arccsc") f
+  ```
+]
+
 === 双曲函数
 
+#examples-table()[
+  ```
+  sinh a
+  ```
+][
+  ```
+  cosh b
+  ```
+][
+  ```
+  tanh c
+  ```
+][
+  ```
+  coth d
+  ```
+][
+  ```
+  sech e
+  ```
+][
+  ```
+  csch f
+  ```
+]
+
 === 反双曲函数
+
+#examples-table()[
+  ```
+  op("arsinh") a
+  ```
+][
+  ```
+  op("arcosh") b
+  ```
+][
+  ```
+  op("artanh") c
+  ```
+][
+  ```
+  op("arcoth") d
+  ```
+][
+  ```
+  op("arsech") e
+  ```
+][
+  ```
+  op("arcsch") f
+  ```
+]
 
 == 符号函数
 
