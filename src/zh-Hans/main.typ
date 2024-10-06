@@ -308,27 +308,28 @@ $
 
 #examples-table()[
   ```
-  sin a
+  sin x
   ```
 ][
   ```
-  cos b
+  cos x
   ```
 ][
   ```
-  tan b
+  tan x \
+  tg x \
   ```
 ][
   ```
-  cot b
+  cot x
   ```
 ][
   ```
-  sec b
+  sec x
   ```
 ][
   ```
-  csc b
+  csc x
   ```
 ]
 
@@ -336,27 +337,27 @@ $
 
 #examples-table()[
   ```
-  arcsin a
+  arcsin x
   ```
 ][
   ```
-  arccos b
+  arccos x
   ```
 ][
   ```
-  arctan c
+  arctan x
   ```
 ][
   ```
-  op("arccot") d
+  op("arccot") x
   ```
 ][
   ```
-  op("arcsec") e
+  op("arcsec") x
   ```
 ][
   ```
-  op("arccsc") f
+  op("arccsc") x
   ```
 ]
 
@@ -364,27 +365,27 @@ $
 
 #examples-table()[
   ```
-  sinh a
+  sinh x
   ```
 ][
   ```
-  cosh b
+  cosh x
   ```
 ][
   ```
-  tanh c
+  tanh x
   ```
 ][
   ```
-  coth d
+  coth x
   ```
 ][
   ```
-  sech e
+  sech x
   ```
 ][
   ```
-  csch f
+  csch x
   ```
 ]
 
@@ -396,29 +397,37 @@ $
   ```
 ][
   ```
-  op("arcosh") b
+  op("arcosh") a
   ```
 ][
   ```
-  op("artanh") c
+  op("artanh") a
   ```
 ][
   ```
-  op("arcoth") d
+  op("arcoth") a
   ```
 ][
   ```
-  op("arsech") e
+  op("arsech") a
   ```
 ][
   ```
-  op("arcsch") f
+  op("arcsch") a
   ```
 ]
 
-== 符号函数
-
 == 最值函数
+
+#examples-table()[
+  ```
+  max a
+  ```
+][
+  ```
+  min a
+  ```
+]
 
 == 取整函数
 
