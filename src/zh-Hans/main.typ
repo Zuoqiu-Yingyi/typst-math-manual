@@ -417,6 +417,18 @@ $
   ```
 ]
 
+== 符号函数
+
+#examples-table()[
+  ```
+  abs(a)
+  ```
+][
+  ```
+  op("sgn") a
+  ```
+]
+
 == 最值函数
 
 #examples-table()[

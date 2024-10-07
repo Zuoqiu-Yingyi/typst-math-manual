@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-07
+
+- 添加符号函数 | Add sign function
+
 ## 2024-10-06
 
 - 添加最值函数 | Add maximum-value functions
