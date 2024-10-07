@@ -443,6 +443,22 @@ $
 
 == 取整函数
 
+// REF: https://typst.app/docs/reference/math/lr#functions-abs
+
+#examples-table()[
+  ```
+  ceil(a)
+  ```
+][
+  ```
+  round(a)
+  ```
+][
+  ```
+  floor(a)
+  ```
+]
+
 = 微积分
 
 == 极限

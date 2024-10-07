@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-08
+
+- 添加取整函数 | Add rounding functions
+
 ## 2024-10-07
 
 - 添加符号函数 | Add sign function
