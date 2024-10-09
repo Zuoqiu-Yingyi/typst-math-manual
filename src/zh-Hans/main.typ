@@ -433,11 +433,11 @@ $
 
 #examples-table()[
   ```
-  max a
+  max(x)
   ```
 ][
   ```
-  min a
+  min(x)
   ```
 ]
 
@@ -462,6 +462,58 @@ $
 = 微积分
 
 == 极限
+
+#examples-table()[
+  ```
+  min a
+  ```
+][
+  ```
+  max a
+  ```
+][
+  ```
+  inf a
+  ```
+][
+  ```
+  sup a
+  ```
+][
+  ```
+  lim a
+  ```
+][
+  ```
+  liminf a
+  ```
+][
+  ```
+  limsup a
+  ```
+][
+  ```
+  dim a
+  ```
+][
+  ```
+  deg a
+  ```
+][
+  ```
+  det a
+  ```
+][
+  ```
+  ker a
+  ```
+]
+
+#examples-table()[
+  ```
+  lim_(x -> oo) 1 / (n (n + 1))
+  ```
+]
 
 == 微分 / 导数
 

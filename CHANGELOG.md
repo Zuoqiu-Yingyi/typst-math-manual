@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-09
+
+- 添加 `极限` 章节 | Add `Limit` section
+
 ## 2024-10-08
 
 - 添加取整函数 | Add rounding functions
