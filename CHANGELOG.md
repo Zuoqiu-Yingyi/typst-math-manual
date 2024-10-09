@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-10
+
+- 添加 `微分` 章节 | Add `Differentiation` section
+
 ## 2024-10-09
 
 - 添加 `极限` 章节 | Add `Limit` section

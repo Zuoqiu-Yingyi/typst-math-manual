@@ -515,7 +515,36 @@ $
   ```
 ]
 
-== 微分 / 导数
+== 微分
+
+// REF: https://sitandr.github.io/typst-examples-book/book/basics/math/operators.html
+
+#examples-table()[
+  ```
+  dif t
+  ```
+][
+  ```
+  diff t \
+  partial t \
+  ```
+][
+  ```
+  nabla t
+  ```
+]
+
+#examples-table()[
+  ```
+  (dif y) / (dif x)
+  ```
+][
+  ```
+  partial^2 / (partial x_1 partial x_2) y
+  ```
+]
+
+== 导数
 
 = 投射
 
