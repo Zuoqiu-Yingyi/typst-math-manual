@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-11
+
+- 添加 `导数` 章节 | Add `Derivative` section
+
 ## 2024-10-10
 
 - 添加 `微分` 章节 | Add `Differentiation` section
