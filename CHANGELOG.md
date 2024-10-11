@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-12
+
+- 添加 `投射` 章节 | Add `Projection` section
+
 ## 2024-10-11
 
 - 添加 `导数` 章节 | Add `Derivative` section
