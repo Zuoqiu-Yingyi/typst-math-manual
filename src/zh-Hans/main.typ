@@ -605,7 +605,91 @@ $
 
 = 运算符
 
+// REF: https://typst.app/docs/reference/symbols/sym/
+
 == 四则运算
+
+=== 加
+
+#examples-table()[
+  ```
+  + \
+  plus \
+  \u{002B} \
+  ```
+][
+  ```
+  ⊕ \
+  plus.circle \
+  \u{2295} \
+  ```
+][
+  ```
+  ⟴ \
+  plus.circle.arrow \
+  \u{27F4} \
+  ```
+][
+  ```
+  ⨁ \
+  plus.circle.big \
+  \u{2A01} \
+  ```
+][
+  ```
+  ∔ \
+  plus.dot \
+  \u{2214} \
+  ```
+][
+  ```
+  ⊞ \
+  plus.square \
+  \u{229E} \
+  ```
+][
+  ```
+  ⨄ \
+  union.plus.big \
+  \u{2A04} \
+  ```
+][
+  ```
+  ⊎ \
+  ⊎ \
+  union.plus \
+  ```
+][
+  ```
+  ± \
+  ± \
+  plus.minus \
+  ```
+][
+  ```
+  ﹢ \
+  ﹢ \
+  plus.small \
+  ```
+][
+  ```
+  ⊕ \
+  xor \
+  \u{2295} \
+  ```
+][
+  ```
+  ⨁ \
+  xor.big \
+  \u{2A01} \
+  ```
+]
+
+=== 减
+
+=== 乘
+
+=== 除
 
 == 模运算
 
