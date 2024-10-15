@@ -1,8 +1,11 @@
 # Changelog | 更改日志
 
+## 2024-10-15
+
+- 添加 `减运算符` 章节 | Add `Subtraction Operator` section
+
 ## 2024-10-13
 
-- 添加 `加运算符` 章节 | Add `Addition Operators` section
 
 ## 2024-10-12
 
