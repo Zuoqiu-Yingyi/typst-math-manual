@@ -625,21 +625,15 @@ $
   ```
 ][
   ```
-  ⟴ \
-  plus.circle.arrow \
-  \u{27F4} \
-  ```
-][
-  ```
   ⨁ \
   plus.circle.big \
   \u{2A01} \
   ```
 ][
   ```
-  ∔ \
-  plus.dot \
-  \u{2214} \
+  ⟴ \
+  plus.circle.arrow \
+  \u{27F4} \
   ```
 ][
   ```
@@ -664,6 +658,12 @@ $
   ± \
   plus.minus \
   \u{00B1} \
+  ```
+][
+  ```
+  ∔ \
+  plus.dot \
+  \u{2214} \
   ```
 ][
   ```
@@ -702,12 +702,6 @@ $
   ```
 ][
   ```
-  ∸ \
-  minus.dot \
-  \u{2238} \
-  ```
-][
-  ```
   ⊟ \
   minus.square \
   \u{229F} \
@@ -717,6 +711,12 @@ $
   ⨺ \
   minus.triangle \
   \u{2A3A} \
+  ```
+][
+  ```
+  ∸ \
+  minus.dot \
+  \u{2238} \
   ```
 ][
   ```
@@ -745,6 +745,80 @@ $
 ]
 
 === 乘
+
+#examples-table()[
+  ```
+  × \
+  times \
+  \u{00D7} \
+  ```
+][
+  ```
+  ⨉ \
+  times.big \
+  \u{2A09} \
+  ```
+][
+  ```
+  ⊗ \
+  times.circle \
+  \u{2297} \
+  ```
+][
+  ```
+  ⨂ \
+  times.circle.big \
+  \u{2A02} \
+  ```
+][
+  ```
+  ⨻ \
+  times.triangle \
+  \u{2A3B} \
+  ```
+][
+  ```
+  ⋇ \
+  times.div \
+  \u{22C7} \
+  ```
+][
+  ```
+  ⋋ \
+  times.three.l \
+  \u{22CB} \
+  ```
+][
+  ```
+  ⋌ \
+  times.three.l \
+  \u{22CB} \
+  ```
+][
+  ```
+  ⋉ \
+  times.l \
+  \u{22C9} \
+  ```
+][
+  ```
+  ⋊ \
+  times.r \
+  \u{22CA} \
+  ```
+][
+  ```
+  ⊠ \
+  times.square \
+  \u{22A0} \
+  ```
+][
+  ```
+  ⨘ \
+  integral.times \
+  \u{2A18} \
+  ```
+]
 
 === 除
 
