@@ -3,6 +3,7 @@
 ## 2024-10-25
 
 - 添加 `除运算符` 章节 | Add `Division Operator` section
+- 添加 `点运算符` 章节 | Add `Dot Operator` section
 
 ## 2024-10-18
 
