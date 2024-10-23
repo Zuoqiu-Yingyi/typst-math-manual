@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-25
+
+- 添加 `除运算符` 章节 | Add `Division Operator` section
+
 ## 2024-10-18
 
 - 添加 `乘运算符` 章节 | Add `Multiplication Operator` section

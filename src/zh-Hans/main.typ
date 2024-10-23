@@ -661,6 +661,12 @@ $
   ```
 ][
   ```
+  ∓ \
+  minus.plus \
+  \u{2213} \
+  ```
+][
+  ```
   ∔ \
   plus.dot \
   \u{2214} \
@@ -742,6 +748,12 @@ $
   minus.plus \
   \u{2213} \
   ```
+][
+  ```
+  ± \
+  plus.minus \
+  \u{00B1} \
+  ```
 ]
 
 === 乘
@@ -821,6 +833,78 @@ $
 ]
 
 === 除
+
+#examples-table()[
+  ```
+  ÷ \
+  div \
+  \u{00F7} \
+  ```
+][
+  ```
+  ⨸ \
+  div.circle \
+  \u{2A38} \
+  ```
+][
+  ```
+  ⋇ \
+  times.div \
+  \u{22C7} \
+  ```
+]
+
+#examples-table()[
+  ```
+  \/ \
+  slash \
+  \u{002F} \
+  ```
+][
+  ```
+  ⫽ \
+  slash.double \
+  \u{2AFD} \
+  ```
+][
+  ```
+  ⫻ \
+  slash.triple \
+  \u{2AFB} \
+  ```
+][
+  ```
+  ⧸ \
+  slash.big \
+  \u{29F8} \
+  ```
+][
+  ```
+  ⨏ \
+  integral.slash \
+  \u{2A0F} \
+  ```
+][
+  ```
+  \\ \
+  backslash \
+  \u{005C} \
+  ```
+][
+  ```
+  ⦸ \
+  backslash.circle \
+  \u{29B8} \
+  ```
+][
+  ```
+  ⧷ \
+  backslash.not \
+  \u{29F7} \
+  ```
+]
+
+=== 点
 
 == 模运算
 
