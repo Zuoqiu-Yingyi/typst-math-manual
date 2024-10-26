@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-10-26
+
+- 添加 `根式` 章节 | Add `Radical` section
+
 ## 2024-10-25
 
 - 添加 `除运算符` 章节 | Add `Division Operator` section
