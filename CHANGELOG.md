@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-11-02
+
+- 添加 `无限` 章节 | Add `Infinity` section
+
 ## 2024-10-26
 
 - 添加 `根式` 章节 | Add `Radical` section

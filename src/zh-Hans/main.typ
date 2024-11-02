@@ -987,7 +987,34 @@ $
 
 = 符号
 
-== 类字母
+== 无限
+
+#examples-table()[
+  ```
+  ∞ \
+  oo \
+  infinity \
+  \u{221E} \
+  ```
+][
+  ```
+  ⧝ \
+  infinity.tie \
+  \u{29DD} \
+  ```
+][
+  ```
+  ⧞ \
+  infinity.bar \
+  \u{29DE} \
+  ```
+][
+  ```
+  ⧜ \
+  infinity.incomplete \
+  \u{29DC} \
+  ```
+]
 
 == 常数
 
