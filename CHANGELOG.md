@@ -1,5 +1,9 @@
 # Changelog | 更改日志
 
+## 2024-11-03
+
+- 添加 `常数` 章节 | Add `Constant` section
+
 ## 2024-11-02
 
 - 添加 `无限` 章节 | Add `Infinity` section
